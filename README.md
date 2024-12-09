@@ -1,7 +1,5 @@
-<!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
-
   <!-- Welcome -->
-<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1  align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <!-- Typing Text -->
 <p align="center">
@@ -9,11 +7,11 @@
 </p>
 
   <!-- Profile Picture -->
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3k2bGs5NzN1N3N5dHVmamxoNms3c2N2cjI0eGNwaDRtM2J1ZHhzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.webp"/>
 
   <!-- Description -->
 ```diff
 👨‍💻 Ethical Hacker
-💻Teacher.
+💻 Teacher.
 ✨ And all of you want. 
 ```
