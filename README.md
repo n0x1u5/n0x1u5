@@ -10,5 +10,5 @@
 ```diff
 👨‍💻 Ethical Hacker
 💻 Teacher
-✨ And all of you want 
+✨ And everything you want 
 ```
