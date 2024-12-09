@@ -9,6 +9,6 @@
   <!-- Description -->
 ```diff
 👨‍💻 Ethical Hacker
-💻 Teacher.
-✨ And all of you want. 
+💻 Teacher
+✨ And all of you want 
 ```
